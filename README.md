@@ -16,3 +16,4 @@ This is the repository for rOpenSci new logos (June 2017). For details on using 
 ![](svg/icon_short_color.svg)
 
 
+All logos (c) The rOpenSci Project, 2017
