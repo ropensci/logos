@@ -6,14 +6,15 @@ This is the repository for rOpenSci new logos (June 2017). For details on using 
 
 **Full Logo**
 
-![](https://raw.githubusercontent.com/ropensci/logos/master/icon_lettering_black.svg)
+![](https://rawgit.com/ropensci/logos/master/icon_lettering_black.svg)
 
-![](https://raw.githubusercontent.com/ropensci/logos/master/icon_lettering_color.svg)
+![](https://rawgit.com/ropensci/logos/master/icon_lettering_color.svg)
 
 **Abbreviated Logo**
 
-![](https://raw.githubusercontent.com/ropensci/logos/master/icon_short_black.svg)
-![](https://raw.githubusercontent.com/ropensci/logos/master/icon_short_color.svg)
+![](https://rawgit.com/ropensci/logos/master/icon_short_black.svg)
+
+![](https://rawgit.com/ropensci/logos/master/icon_short_color.svg)
 
 
 All logos (c) The rOpenSci Project, 2017
